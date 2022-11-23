@@ -1,0 +1,4 @@
+﻿  Lab6.1 rec.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.1 rec\Lab6.1 rec\Lab6.1 rec.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.1 rec\Lab6.1 rec\Lab6.1 rec.cpp(78): warning C4715: Count: значение возвращается не при всех путях выполнения
+  Lab6.1 rec.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.1 rec\x64\Debug\Lab6.1 rec.exe
